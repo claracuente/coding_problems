@@ -34,6 +34,6 @@ public class boolean_sum {
     public static void main(String args[]) {
         boolean_sum t = new boolean_sum();
         System.out.println(t.quadratic(new int[]{10,15,3,7}, 17));
-        System.out.println(t.one_pass(new int[]{10,15,3,3}, 17));
+        System.out.println(t.one_pass(new int[]{10,15,3,}, 17));
     }
 }
